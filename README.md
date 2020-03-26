@@ -1,7 +1,7 @@
 # omnistack-11-mobile
 
 Tecnologias utilizadas:
-* Reactive Native;
+* React Native;
 * Expo para Windows;
 * Node e NPM;
 * Expo para IOS (Servirá para ver o live loading da aplicação).
